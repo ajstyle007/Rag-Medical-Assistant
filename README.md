@@ -2,7 +2,7 @@
 
 An AI-powered medical assistant that leverages **Retrieval-Augmented Generation (RAG)** on **World Health Organization (WHO)** data to provide accurate medical responses to user queries. The system is built using a modular architecture with separate Flask and FastAPI services, containerized with Docker, and deployed on Hugging Face Spaces.
 
-## Live App Link: https://musk12-rag-medical-bot.hf.space/assistant
+#### Live App Link: https://musk12-rag-medical-bot.hf.space/assistant
 
 ![👤 (1)](https://github.com/user-attachments/assets/459fd34b-28b4-430a-b06c-116b26faa8f7)
 
