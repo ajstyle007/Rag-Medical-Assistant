@@ -2,6 +2,8 @@
 
 An AI-powered medical assistant that leverages **Retrieval-Augmented Generation (RAG)** on **World Health Organization (WHO)** data to provide accurate medical responses to user queries. The system is built using a modular architecture with separate Flask and FastAPI services, containerized with Docker, and deployed on Hugging Face Spaces.
 
+![👤 (1)](https://github.com/user-attachments/assets/459fd34b-28b4-430a-b06c-116b26faa8f7)
+
 ---
 
 ## 🚀 Features
@@ -31,5 +33,20 @@ An AI-powered medical assistant that leverages **Retrieval-Augmented Generation 
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Component      | Tool/Service         |
+|----------------|----------------------|
+| Frontend       | Flask                |
+| Backend        | FastAPI              |
+| LLMs           | Open Source Models   |
+| Vector Search  | Pinecone             |
+| Database       | MongoDB              |
+| Containerization | Docker             |
+| Hosting        | Hugging Face Spaces  |
 
 
