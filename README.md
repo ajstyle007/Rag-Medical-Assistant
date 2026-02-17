@@ -4,7 +4,7 @@ An AI-powered medical assistant that leverages **Retrieval-Augmented Generation 
 
 #### Live App Link: https://musk12-rag-medical-bot.hf.space/assistant
 
-<img width="1884" height="857" alt="Screenshot 2026-02-17 152611" src="https://github.com/user-attachments/assets/71121e68-5145-4aff-9e42-388628878cc9" />
+<img width="1886" height="853" alt="Screenshot 2026-02-17 153532" src="https://github.com/user-attachments/assets/aff94968-43b0-4218-911d-af18a834b0e8" />
 
 
 ![👤 (1)](https://github.com/user-attachments/assets/459fd34b-28b4-430a-b06c-116b26faa8f7)
