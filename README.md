@@ -7,6 +7,8 @@ An AI-powered medical assistant that leverages **Retrieval-Augmented Generation 
 <img width="1886" height="853" alt="Screenshot 2026-02-17 153532" src="https://github.com/user-attachments/assets/aff94968-43b0-4218-911d-af18a834b0e8" />
 
 
+## Project Flow
+
 ![👤 (1)](https://github.com/user-attachments/assets/459fd34b-28b4-430a-b06c-116b26faa8f7)
 
 ---
