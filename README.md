@@ -55,6 +55,16 @@ Along with the AI-powered medical query assistant, this project also includes a 
 - ⚡ High-performance asynchronous backend using FastAPI
 - 🗄️ Scalable NoSQL database using MongoDB
 
+## 🚀 API Endpoints
+
+| Method | Endpoint | Description |
+|----------|-------------|----------------|
+| POST | `/patients` | Create new patient record |
+| GET | `/patients` | Get all patients |
+| GET | `/patients/{id}` | Get patient by ID |
+| PUT | `/patients/{id}` | Update patient details |
+| DELETE | `/patients/{id}` | Delete patient record |
+
 
 ## 📂 Project Structure
 
