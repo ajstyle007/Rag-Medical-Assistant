@@ -39,12 +39,24 @@ An AI-powered medical assistant that leverages **Retrieval-Augmented Generation 
 
 ---
 
+## 🏥 Patient Management System
 
 <img width="1888" height="821" alt="Screenshot 2026-02-17 152653" src="https://github.com/user-attachments/assets/b7103280-eb0d-4e01-96d9-6fbee3b15fc0" />
 
 
-## 📂 Project Structure
+Along with the AI-powered medical query assistant, this project also includes a Patient Management Module built using FastAPI and MongoDB, enabling efficient handling of patient records.
 
+- ✨ Features
+- ✅ Create new patient records
+- 📄 Retrieve patient details
+- ✏️ Update existing patient information
+- ❌ Delete patient records
+- 🔄 Fully RESTful API design
+- ⚡ High-performance asynchronous backend using FastAPI
+- 🗄️ Scalable NoSQL database using MongoDB
+
+
+## 📂 Project Structure
 
 ---
 
